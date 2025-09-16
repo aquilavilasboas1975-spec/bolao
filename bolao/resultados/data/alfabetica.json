@@ -1,0 +1,5843 @@
+{
+  "dataInicial": "2025-09-01",
+  "dataFinal": "2025-09-15",
+  "dezenasApuradas": [
+    43,
+    25,
+    55,
+    99,
+    38,
+    14,
+    21,
+    0,
+    88,
+    93,
+    1,
+    56,
+    55,
+    88,
+    13,
+    54,
+    45,
+    75,
+    53,
+    17,
+    23,
+    99,
+    47,
+    48,
+    53,
+    15,
+    23,
+    0,
+    18,
+    55
+  ],
+  "valorPremio": 1854.9999999999998,
+  "resultados": [
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Brandão Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Carlos",
+      "vendedor": "Tonhe",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        88,
+        65,
+        65,
+        65,
+        25,
+        85,
+        45,
+        75,
+        53
+      ],
+      "acertados": [
+        1,
+        75,
+        45,
+        53,
+        88,
+        25
+      ]
+    },
+    {
+      "nome": "Carlos",
+      "vendedor": "Tonhe",
+      "apostaNumero": "2",
+      "aposta": [
+        88,
+        55,
+        42,
+        56,
+        86,
+        56,
+        86,
+        56,
+        86,
+        88
+      ],
+      "acertados": [
+        55,
+        88,
+        88,
+        56
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        99,
+        99,
+        99
+      ],
+      "acertados": [
+        99,
+        99,
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        99,
+        99,
+        99
+      ],
+      "acertados": [
+        99,
+        99,
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        29,
+        43,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55
+      ],
+      "acertados": [
+        43,
+        55,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        1,
+        5,
+        10,
+        13,
+        15,
+        44,
+        44,
+        35
+      ],
+      "acertados": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "DAmião Soares Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Januário",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        99,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        99,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        99,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        99,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        0,
+        55,
+        88,
+        77,
+        66,
+        55,
+        44,
+        33,
+        22,
+        11
+      ],
+      "acertados": [
+        0,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Januário",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Fulano de Tal Coisinho",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Jessé",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        1,
+        2,
+        2,
+        13,
+        12,
+        56,
+        45,
+        65,
+        46
+      ],
+      "acertados": [
+        1,
+        13,
+        45,
+        56
+      ]
+    },
+    {
+      "nome": "Jonas Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        20,
+        64,
+        32,
+        59,
+        18,
+        55,
+        96,
+        98,
+        11,
+        22
+      ],
+      "acertados": [
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "5",
+      "aposta": [
+        56,
+        15,
+        21,
+        5,
+        44,
+        79,
+        74,
+        89,
+        45,
+        61
+      ],
+      "acertados": [
+        45,
+        15,
+        21,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        94,
+        87,
+        95,
+        62,
+        32,
+        48,
+        79,
+        52,
+        0
+      ],
+      "acertados": [
+        0,
+        15,
+        48
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        64,
+        61,
+        16,
+        65,
+        46,
+        12,
+        10,
+        30,
+        13,
+        56
+      ],
+      "acertados": [
+        13,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "3",
+      "aposta": [
+        16,
+        1,
+        65,
+        6,
+        10,
+        60,
+        61,
+        56,
+        2,
+        62
+      ],
+      "acertados": [
+        1,
+        56
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "6",
+      "aposta": [
+        6,
+        35,
+        78,
+        55,
+        26,
+        32,
+        15,
+        94,
+        2,
+        74
+      ],
+      "acertados": [
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "8",
+      "aposta": [
+        10,
+        73,
+        12,
+        74,
+        61,
+        64,
+        17,
+        16,
+        54,
+        51
+      ],
+      "acertados": [
+        17,
+        54
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Matriz",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Joca",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Cosme",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Teodoro",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Adão",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Negão",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Totonha",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "4",
+      "aposta": [
+        10,
+        62,
+        31,
+        65,
+        32,
+        36,
+        60,
+        66,
+        51,
+        1
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "7",
+      "aposta": [
+        59,
+        74,
+        24,
+        5,
+        1,
+        66,
+        51,
+        78,
+        10,
+        57
+      ],
+      "acertados": [
+        1
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "9",
+      "aposta": [
+        64,
+        62,
+        12,
+        46,
+        41,
+        61,
+        14,
+        19,
+        85,
+        49
+      ],
+      "acertados": [
+        14
+      ]
+    },
+    {
+      "nome": "Josué Cardoso",
+      "vendedor": "Toinha",
+      "apostaNumero": "10",
+      "aposta": [
+        81,
+        9,
+        65,
+        41,
+        95,
+        21,
+        69,
+        19,
+        61,
+        26
+      ],
+      "acertados": [
+        21
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        55,
+        55,
+        55,
+        55,
+        55,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        75,
+        48,
+        55,
+        55,
+        55,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Toinho",
+      "apostaNumero": "2",
+      "aposta": [
+        99,
+        99,
+        99,
+        99,
+        99,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        99,
+        99,
+        75,
+        48,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        99,
+        99,
+        99,
+        99,
+        99,
+        75,
+        48,
+        68,
+        0,
+        88
+      ],
+      "acertados": [
+        0,
+        99,
+        99,
+        75,
+        48,
+        88
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Toinho",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        53,
+        26,
+        99
+      ],
+      "acertados": [
+        0,
+        0,
+        99,
+        15,
+        53
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        53,
+        26,
+        99
+      ],
+      "acertados": [
+        0,
+        0,
+        99,
+        15,
+        53
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Kaka",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        15,
+        28,
+        69,
+        49,
+        26,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas",
+      "vendedor": "Januário",
+      "apostaNumero": "2",
+      "aposta": [
+        34,
+        58,
+        95,
+        64,
+        55,
+        90,
+        66,
+        88,
+        0,
+        56
+      ],
+      "acertados": [
+        0,
+        55,
+        88,
+        56
+      ]
+    },
+    {
+      "nome": "Lucas",
+      "vendedor": "Januário",
+      "apostaNumero": "1",
+      "aposta": [
+        84,
+        56,
+        59,
+        23,
+        51,
+        67,
+        28,
+        54,
+        95,
+        62
+      ],
+      "acertados": [
+        54,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Lucas",
+      "vendedor": "Januário",
+      "apostaNumero": "3",
+      "aposta": [
+        85,
+        69,
+        87,
+        54,
+        21,
+        35,
+        82,
+        61,
+        52,
+        37
+      ],
+      "acertados": [
+        21,
+        54
+      ]
+    },
+    {
+      "nome": "Lucas",
+      "vendedor": "Januário",
+      "apostaNumero": "4",
+      "aposta": [
+        68,
+        98,
+        50,
+        64,
+        82,
+        97,
+        88,
+        69,
+        60,
+        0
+      ],
+      "acertados": [
+        0,
+        88
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        1,
+        3,
+        5,
+        6,
+        89,
+        55,
+        0,
+        13,
+        98,
+        15
+      ],
+      "acertados": [
+        0,
+        1,
+        13,
+        15,
+        55
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Matriz",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Lucas Maia Santos",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        43,
+        78,
+        95,
+        21,
+        32,
+        10,
+        66,
+        48,
+        23,
+        51
+      ],
+      "acertados": [
+        43,
+        48,
+        21,
+        23
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        15,
+        15,
+        15,
+        15,
+        18,
+        18,
+        18,
+        18
+      ],
+      "acertados": [
+        0,
+        0,
+        15,
+        18
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "2",
+      "aposta": [
+        35,
+        25,
+        45,
+        45,
+        12,
+        32,
+        24,
+        13,
+        56,
+        16
+      ],
+      "acertados": [
+        13,
+        45,
+        56,
+        25
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "3",
+      "aposta": [
+        0,
+        3,
+        26,
+        2,
+        56,
+        65,
+        0,
+        0,
+        0,
+        0
+      ],
+      "acertados": [
+        0,
+        0,
+        56
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "4",
+      "aposta": [
+        58,
+        46,
+        12,
+        26,
+        45,
+        1,
+        32,
+        41,
+        13,
+        13
+      ],
+      "acertados": [
+        1,
+        13,
+        45
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Januário",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        99,
+        9
+      ],
+      "acertados": [
+        99,
+        45
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Januário",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        99,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        99
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Januário",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        99,
+        9
+      ],
+      "acertados": [
+        99,
+        45
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        99,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        99
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Joca",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Cosme",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Teodoro",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Adão",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Negão",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Totonha",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        94,
+        57,
+        85,
+        62,
+        35,
+        12,
+        45,
+        68,
+        55,
+        9
+      ],
+      "acertados": [
+        45,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        76,
+        49,
+        86,
+        52,
+        55,
+        90,
+        0,
+        94,
+        59,
+        42
+      ],
+      "acertados": [
+        0,
+        55
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Toinha",
+      "apostaNumero": "3",
+      "aposta": [
+        72,
+        86,
+        45,
+        76,
+        85,
+        46,
+        79,
+        49,
+        42,
+        54
+      ],
+      "acertados": [
+        45,
+        54
+      ]
+    },
+    {
+      "nome": "Ramon Maia",
+      "vendedor": "Matriz",
+      "apostaNumero": "5",
+      "aposta": [
+        10,
+        32,
+        63,
+        4,
+        54,
+        98,
+        56,
+        65,
+        65,
+        65
+      ],
+      "acertados": [
+        54,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Matriz",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        99,
+        99
+      ],
+      "acertados": [
+        0,
+        0,
+        99,
+        99,
+        45
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Matriz",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        99,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        99,
+        48,
+        18
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        99,
+        99
+      ],
+      "acertados": [
+        0,
+        0,
+        99,
+        99,
+        45
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Joca",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        99,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        99,
+        48,
+        18
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Cosme",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Teodoro",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Adão",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Negão",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Totonha",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        45,
+        55,
+        55
+      ],
+      "acertados": [
+        0,
+        0,
+        45,
+        55,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Toinha",
+      "apostaNumero": "2",
+      "aposta": [
+        1,
+        18,
+        35,
+        27,
+        55,
+        0,
+        48,
+        16,
+        35,
+        24
+      ],
+      "acertados": [
+        0,
+        1,
+        48,
+        18,
+        55
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Matriz",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Joca",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Cosme",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Teodoro",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Adão",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Negão",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Totonha",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "Serafim Soares Costa",
+      "vendedor": "Toinha",
+      "apostaNumero": "3",
+      "aposta": [
+        46,
+        56,
+        65,
+        56,
+        65,
+        65,
+        48,
+        89,
+        56,
+        23
+      ],
+      "acertados": [
+        48,
+        23,
+        56
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "fagner",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        53,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        53,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        53,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        53,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "hp",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        15,
+        25,
+        49,
+        66,
+        68,
+        86,
+        66,
+        66,
+        55,
+        63
+      ],
+      "acertados": [
+        15,
+        55,
+        25
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "fagner",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Joca",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Cosme",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Teodoro",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Adão",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Negão",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Zé Grandão",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Totonha",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    },
+    {
+      "nome": "lucas",
+      "vendedor": "Toinha",
+      "apostaNumero": "1",
+      "aposta": [
+        12,
+        45,
+        73,
+        76,
+        48,
+        79,
+        46,
+        13,
+        47,
+        94
+      ],
+      "acertados": [
+        13,
+        45,
+        47,
+        48
+      ]
+    }
+  ]
+}
